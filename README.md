@@ -1,5 +1,5 @@
 # 💫 About Me:
-❌ Comments<br>❌ Proper commit messages<br>❌ Using GIT properly<br>✅ Writing unreadable code that functions<br>
+❌ Comments, ew<br>❌ Proper commit messages, hell no<br>❌ Using git properly, git push --force all the way baby<br>✅ Writing unreadable code that SOMEhOW functions?!?!?!<br>
 
 
 ## 🌐 Socials:
